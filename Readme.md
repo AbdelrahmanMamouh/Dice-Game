@@ -1,6 +1,6 @@
 Hello!
 
-https://hdgamerh2w9.github.io/Dice-Game/
+https://abdelrahmanmamouh.github.io/Dice-Game/
 
 This is a simple dice game I created.
 
